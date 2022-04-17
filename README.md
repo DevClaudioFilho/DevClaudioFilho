@@ -2,8 +2,6 @@
 
 <p>Tenho 24 anos, vivo em portugal, mas sou natural do Brasil. Me encantei pelo mundo do desenvolvimento em 2019, onde iniciei meus estudos em C, dai em diante fui evoluindo  e conhecendo novas tecnologias, atualmente meu foco de estudo e o Java Script.</p>
 
-<br>
-
 <table>
     <tr >
         <th >💻 Front-End:</th>
@@ -29,8 +27,6 @@
     <img height="170em" style="margin-left:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevClaudioFilho&layout=compact&langs_count=7&theme=vue-dark"/>
     <img height="170em" style="margin-left:auto" src="https://github-readme-stats.vercel.app/api?username=DevClaudioFilho&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
 </a>
-
-<br>
 
 <div style="display:flex;flex-direction:row;margin-top:30px;">
     <a href="https://instagram.com/claudio_martinss" target="_blank" style="margin-right:15px;">
