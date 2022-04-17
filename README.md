@@ -50,14 +50,5 @@ Tenho 24 anos, vivo em portugal, mas sou natural do Brasil. Me encantei pelo mun
   <a href="https://www.linkedin.com/in/claudio-martins-de-pinho-filho-99a6a1192/" target="_blank">
     <img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&color=gray" target="_blank" />
   </a>
-  <a href="https://www.linkedin.com/in/claudio-martins-de-pinho-filho-99a6a1192/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&color=gray" target="_blank"/>
-  </a>
-  <a href="https://www.linkedin.com/in/claudio-martins-de-pinho-filho-99a6a1192/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&color=gray" target="_blank"/>
-  </a>
-  <a href="https://www.linkedin.com/in/claudio-martins-de-pinho-filho-99a6a1192/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-%23E4405F?style=for-the-badge&logo=linkedin&logoColor=white&color=gray" target="_blank"/>
-  </a>
 </div>
 
