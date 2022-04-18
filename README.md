@@ -1,6 +1,6 @@
 <h1>🙋🏻‍♂️Seja bem vindo</h1>
 
-<p>Tenho 24 anos, vivo em portugal, mas sou natural do Brasil. Me encantei pelo mundo do desenvolvimento em 2019, onde iniciei meus estudos em C, dai em diante fui evoluindo  e conhecendo novas tecnologias, atualmente meu foco de estudo e o Java Script.</p>
+<p>Tenho 24 anos, vivo em portugal, mas sou natural do Brasil. Me encantei pelo mundo do desenvolvimento em 2019, onde iniciei meus estudos em C, dai em diante fui evoluindo  e conhecendo novas tecnologias, atualmente meu foco de estudo e o JavaScript.</p>
 
 <table>
     <tr >
