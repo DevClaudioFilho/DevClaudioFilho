@@ -1,23 +1,25 @@
 <h1>🙋🏻‍♂️Seja bem vindo</h1>
 
-<p>Tenho 24 anos, vivo em portugal, mas sou natural do Brasil. Me encantei pelo mundo do desenvolvimento em 2019, onde iniciei meus estudos em C, dai em diante fui evoluindo  e conhecendo novas tecnologias, atualmente meu foco de estudo e o JavaScript.</p>
+<p>
+My name is Claudio, I was born in Brazil and have a beautiful wife.<br>
+But I am not here to talk about this, I am a web developer, but I don't limit myself to this, I am always after learning more about technology.
+</p>
 
 <table>
     <tr >
-        <th >💻 Front-End:</th>
+        <th>💻 Front-End:</th>
         <th>👨‍💻 Back-End:</th>
         <th>📱 Mobile:</th>
     </tr>
     <tr>
         <td>
-            <img alt="NextJS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
-            <img  alt="React JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+            <img src="https://skills.thijs.gg/icons?i=nextjs,react">
         </td>
         <td>
-            <img alt="Node JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
+            <img src="https://skills.thijs.gg/icons?i=nodejs">
         </td>
         <td>
-            <img alt="React Native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+            <img src="https://skills.thijs.gg/icons?i=react">
         </td>
     </tr>
 </table>
