@@ -1,4 +1,4 @@
-<h1>🙋🏻‍♂️Seja bem vindo</h1>
+<h1>🙋🏻‍♂️ Welcome</h1>
 
 <p>
 My name is Claudio, I was born in Brazil and have a beautiful wife.<br>
