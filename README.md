@@ -23,7 +23,9 @@ But I am not here to talk about this, I am a web developer, but I don't limit my
         </td>
     </tr>
 </table>
-
+<!-- 
+    All these cards are from an open source code project and the link is https://github.com/anuraghazra/github-readme-stats  
+-->
 <a href="https://github.com/DevClaudioFilho" style="display:flex;flex-direction:row">
     <img height="170em" style="margin-left:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevClaudioFilho&layout=compact&langs_count=7&theme=vue-dark"/>
     <img height="170em" style="margin-left:auto" src="https://github-readme-stats.vercel.app/api?username=DevClaudioFilho&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
