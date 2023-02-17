@@ -13,10 +13,10 @@ But I am not here to talk about this, I am a web developer, but I don't limit my
     </tr>
     <tr>
         <td>
-            <img src="https://skills.thijs.gg/icons?i=nextjs,react">
+            <img src="https://skills.thijs.gg/icons?i=nextjs,react,vue">
         </td>
         <td>
-            <img src="https://skills.thijs.gg/icons?i=nodejs">
+            <img src="https://skills.thijs.gg/icons?i=nodejs,django">
         </td>
         <td>
             <img src="https://skills.thijs.gg/icons?i=react">
